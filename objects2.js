@@ -19,7 +19,7 @@ function Student(name, status, term, skillLevel){
  let students = [student1, student2, student3, student4]
 
 
- console.log(students)//?
+ console.log(students)
 
  let Stud = {
      school: 'Code Immersives',
@@ -31,4 +31,5 @@ function Student(name, status, term, skillLevel){
      }
  }
 
+ let stud1 = new Stud()
 
