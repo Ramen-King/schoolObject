@@ -12,9 +12,9 @@ function Student(name, status, term, skillLevel){
     this.skillLevel = skillLevel
  }
  let student1 = new Student('Jimmy', 'Student', 3, 'Beginner')
- let student2 = new Student('Manish', 'Student', 3, 'Beginner')
- let student3 = new Student('Alex', 'Student', 3, 'Beginner')
- let student4 = new Student('Mintae', 'Student', 3, 'Beginner')
+ let student2 = new Student('Manish', 'Student', 3, 'Expert')
+ let student3 = new Student('Alex', 'Student', 3, 'Expert')
+ let student4 = new Student('Mintae', 'Student', 3, 'Expert')
  
  let students = [student1, student2, student3, student4]
 
@@ -31,5 +31,5 @@ function Student(name, status, term, skillLevel){
      }
  }
 
- let stud1 = new Stud()
+ let stud1 = new stud
 
